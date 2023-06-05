@@ -30,7 +30,7 @@ main{
     outline: none;
 }
 
-.mensaje{
+#mensaje{
     background: white;
     background-image: url("/Muñeco.png");
     background-repeat: no-repeat;
